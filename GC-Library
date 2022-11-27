@@ -219,7 +219,7 @@ function library:CreateMain(guititle, credits)
 	InfoTextC.Position = UDim2.new(0, 24, 0.256999999, 0)
 	InfoTextC.Size = UDim2.new(0, 329, 0, 103)
 	InfoTextC.Font = Enum.Font.TitilliumWeb
-	InfoTextC.Text = "UI made by: \"Mau#2082\"".. credit
+	InfoTextC.Text = "UI made by: Mau#2082, thanks to Actyrn#7104!"
 	InfoTextC.TextColor3 = Color3.fromRGB(211, 211, 211)
 	InfoTextC.TextSize = 25.000
 	InfoTextC.TextWrapped = true
